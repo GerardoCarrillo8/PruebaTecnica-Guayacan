@@ -18,7 +18,7 @@
                     <th>Apellidos</th>
                     <th>Teléfono</th>
                     <th>Dirección</th>
-                    <th>Acciones</th>
+                    <th>Acciones para el usuario</th>
                 </tr>
             </thead>
             <tbody>
